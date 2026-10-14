@@ -1,0 +1,47 @@
+[
+    
+    {
+        "isbn": "978-84-376-0494-7",
+        "titulo": "Kafka on the Shore",
+        "autor": "Haruki Murakami",
+        "anio": 2002,
+        "palabrasClave": ["gato", "lluvia", "japón", "edipo"],
+        "genero": {
+                "modalidad": "novela",
+                "narrativa": "misterio",
+                "publico": "juvenil"
+            },
+        "disponible": true
+    },
+
+        {
+        "isbn": "978-84-376-0494-8",
+        "titulo": "Anna Karénina",
+        "autor": "Lev Tólstoi",
+        "anio": 1980,
+        "palabrasClave": ["mujer", "rusia", "feminismo"],
+        "genero": {
+                "modalidad": "novela",
+                "narrativa": "tragedia",
+                "publico": "adulto"
+            },
+        "disponible": true
+    },
+
+            {
+        "isbn": "978-84-376-0494-8",
+        "titulo": "Anna Karénina",
+        "autor": "Lev Tólstoi",
+        "anio": 1980,
+        "palabrasClave": ["mujer", "rusia", "feminismo"],
+        "genero": {
+                "modalidad": "novela",
+                "narrativa": "tragedia",
+                "publico": "adulto"
+            },
+        "disponible": true
+    }
+
+
+
+]
